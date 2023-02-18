@@ -1,0 +1,14 @@
+.singlePost{
+    margin-top: 7rem;
+}
+.singlePost_thumbnail{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.singlePost_thumbnail img{
+    width: 80%;
+    height: 30rem;
+}
